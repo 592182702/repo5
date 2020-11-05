@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deyuan_dao/deyuan_dao.iml" filepath="$PROJECT_DIR$/deyuan_dao/deyuan_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deyuan_pojo/deyuan_pojo.iml" filepath="$PROJECT_DIR$/deyuan_pojo/deyuan_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deyuan_service/deyuan_service.iml" filepath="$PROJECT_DIR$/deyuan_service/deyuan_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deyuan_ssm.iml" filepath="$PROJECT_DIR$/deyuan_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deyuan_util/deyuan_util.iml" filepath="$PROJECT_DIR$/deyuan_util/deyuan_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deyuan_web/deyuan_web.iml" filepath="$PROJECT_DIR$/deyuan_web/deyuan_web.iml" />
+    </modules>
+  </component>
+</project>

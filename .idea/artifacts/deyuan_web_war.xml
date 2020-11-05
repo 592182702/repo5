@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="deyuan_web:war">
+    <output-path>$PROJECT_DIR$/deyuan_web/target</output-path>
+    <root id="archive" name="deyuan_web.war">
+      <element id="artifact" artifact-name="deyuan_web:war exploded" />
+    </root>
+  </artifact>
+</component>

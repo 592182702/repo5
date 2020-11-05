@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="deyuan_dao" />
+        <module name="deyuan_pojo" />
+        <module name="deyuan_service" />
+        <module name="deyuan_util" />
+        <module name="deyuan_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="deyuan_dao" target="1.8" />
+      <module name="deyuan_pojo" target="1.8" />
+      <module name="deyuan_service" target="1.8" />
+      <module name="deyuan_ssm" target="1.8" />
+      <module name="deyuan_util" target="1.8" />
+      <module name="deyuan_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
